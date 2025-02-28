@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Patrick 👋
 
-<!--
-**patrick-astro/patrick-astro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 An Engineer with expertise in Golang, Java 
+- 🚀 Currently working on [astronauts.id - 15 Minutes Grocery Deliveries in Indonesia](https://www.astronauts.id/) as AVP, Technical Architect
+- 🎯 I'm currently learning about AI 
+
+---
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/patrickalexchan)
+
