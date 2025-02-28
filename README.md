@@ -1,14 +1,9 @@
 # Hi there, I'm Patrick 👋
-
----
-
 ## 🌟 About Me
 
 - 💻 An Engineer with expertise in Golang, Java 
 - 🚀 Currently working on [astronauts.id - 15 Minutes Grocery Deliveries in Indonesia](https://www.astronauts.id/) as AVP, Technical Architect
 - 🎯 I'm currently learning about AI 
-
----
 
 ## 📫 Let's Connect!
 
